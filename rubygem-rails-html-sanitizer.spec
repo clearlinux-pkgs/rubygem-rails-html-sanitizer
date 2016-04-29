@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rails-html-sanitizer
 Version  : 1.0.3
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/rails-html-sanitizer-1.0.3.gem
 Source0  : https://rubygems.org/downloads/rails-html-sanitizer-1.0.3.gem
 Summary  : No detailed summary available
